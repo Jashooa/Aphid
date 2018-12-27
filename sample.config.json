@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "token": "TokenGoesHere",
+        "guild": "GuildIDGoesHere",
+        "prefix": "!"
+    },
+    "database": {
+        "host": "127.0.0.1:5432",
+        "user": "aphid",
+        "password": "",
+        "database": "aphid"
+    }
+}
